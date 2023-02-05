@@ -1,4 +1,5 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepotatopowers&theme=tokyonight)](https://github.com/thepotatopowers/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thepotatopowers&theme=tokyonight)](https://github.com/thepotatopowers/github-readme-stats)\
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thepotatopowers&theme=react)](https://github.com/thepotatopowers)
 
 
